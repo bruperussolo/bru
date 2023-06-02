@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+}
+
+.a{
+    height: 40vh;
+    width: 100vw;
+    background-repeat: no-repeat;
+    background-size: 100vw;
+    background-position: center;
+    background-image: url(https://www.reinodexango.com.br/wp-content/uploads/2021/04/jogo-buzios850-850x640-1.jpg);
+}
+
+.preto{
+    color: rgb(173, 173, 3);
+    width: 100vw;
+    height: 60vh;
+    background-color: black;
+}
